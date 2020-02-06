@@ -1,1 +1,1 @@
-Hello, World! maste : ..00
+Hello, World! maste: ..00
