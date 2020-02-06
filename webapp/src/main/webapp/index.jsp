@@ -1,1 +1,1 @@
-Hello, World! mast: ..00
+Hello, World! maser version: ..00
