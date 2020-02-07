@@ -1,1 +1,1 @@
-Hello, World! maser version:1. 00
+Hello, World! maser version:1.00
